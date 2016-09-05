@@ -248,3 +248,30 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Silver Tree */
+.theme-silver-tree .sidebar {
+  background-color: #68C3A3;
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #68C3A3;
+}
+
+/* tall poppy */
+.theme-tall-poppy .sidebar {
+  background-color: #C0392B;
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #C0392B;
+}
+
+/* niagra */
+.theme-tall-poppy .sidebar {
+  background-color: #16A085;
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #16A085;
+}
