@@ -7,4 +7,4 @@ __Reding, L__. and M. Cummings. Does sensory expansion benefit asexual species? 
 
 __Reding, L__. Increased hatching success as a direct benefit of polyandry in birds. 2015. [Evolution](http://onlinelibrary.wiley.com/doi/10.1111/evo.12553/full).
 
-__Reding, L__. P, J. P. Swaddle, and H. A. Murphy. Sexual selection hinders adaptation in experimental populations of yeast. 2013. [Biology Letters](http://rsbl.royalsocietypublishing.org/content/9/3/20121202.short).
+__Reding, L. P__, J. P. Swaddle, and H. A. Murphy. Sexual selection hinders adaptation in experimental populations of yeast. 2013. [Biology Letters](http://rsbl.royalsocietypublishing.org/content/9/3/20121202.short).
