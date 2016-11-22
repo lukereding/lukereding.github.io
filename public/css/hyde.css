@@ -251,27 +251,27 @@ a.sidebar-nav-item:focus {
 
 /* Silver Tree */
 .theme-silver-tree .sidebar {
-  background-color: #68C3A3;
+  background-color: #68c3a3;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
-  color: #68C3A3;
+  color: #68c3a3;
 }
 
 /* tall poppy */
 .theme-tall-poppy .sidebar {
-  background-color: #C0392B;
+  background-color: #c0392b;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
-  color: #C0392B;
+  color: #c0392b;
 }
 
 /* niagra */
 .theme-niagra .sidebar {
-  background-color: #16A085;
+  background-color: #16a085;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
-  color: #16A085;
+  color: #16a085;
 }
