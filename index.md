@@ -3,7 +3,7 @@ layout: page
 title:
 ---
 
-![logo](../files/graphic.png)
+![logo](../files/photo.jpg)
 
 I'm a graduate student and NSF Research Fellow in the [Ecology, Evolution, and Behavior department](https://www.cns.utexas.edu/eeb-graduate-program) at UT Austin. I work with [Molly Cummings](http://www.bio.utexas.edu/research/cummingslab/).
 
