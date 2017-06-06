@@ -16,7 +16,7 @@ __Reding, L. P__, J. P. Swaddle, and H. A. Murphy. Sexual selection hinders adap
 
 __In the works:__
 
-Choice overload in a slime mold. With J. Xin.
+Choice overload in a slime mold. With J. Xin. _in review_
 
 Intransitive interactions correlate with species diversity and synchrony in two kelp forest communities.
 
