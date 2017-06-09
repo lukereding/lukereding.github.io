@@ -3,7 +3,7 @@ layout: page
 title: publications
 ---
 
-__Reding, L__. and M. Cummings. Context-dependent preferences by multicomponent signals in a swordtail. _accepted_, Animal Behavior.
+__Reding, L__. and M. Cummings. Context-dependent preferences by multicomponent signals in a swordtail. _in press_, Animal Behaviour.
 
 __Reding, L__. and M. Cummings. Does sensory expansion benefit asexual species? An olfactory discrimination test in Amazon mollies. 2016. [Behavioral Ecology](http://beheco.oxfordjournals.org/content/early/2015/10/07/beheco.arv168.short?rss=1).
 
@@ -16,8 +16,8 @@ __Reding, L. P__, J. P. Swaddle, and H. A. Murphy. Sexual selection hinders adap
 
 __In the works:__
 
-Choice overload in a slime mold. With J. Xin. _in review_
+Choice overload in a slime mold. L. Reding and J. Xin. _in review_
 
-Intransitive interactions correlate with species diversity and synchrony in two kelp forest communities.
+Intransitive interactions correlate with species diversity and synchrony in two kelp forest communities. L Reding.
 
 …and more!
