@@ -13,4 +13,4 @@ __I study how organisms make decisions that are essential to their survival and 
 :: [blog](https://lukereding.github.io/nonstandard_deviations/)
 :: [github](https://github.com/lukereding)
 :: [twitter](https://twitter.com/lpreding)
-:: [linkedin](www.linkedin.com/in/luke-reding-95b318129)
+:: [linkedin](https://www.linkedin.com/in/luke-reding-95b318129)
