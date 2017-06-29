@@ -14,3 +14,4 @@ __I study how organisms make decisions that are essential to their survival and 
 :: [github](https://github.com/lukereding)
 :: [twitter](https://twitter.com/lpreding)
 :: [linkedin](https://www.linkedin.com/in/luke-reding-95b318129)
+:: [publons](https://publons.com/author/1264405/luke-reding#profile)
