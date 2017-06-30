@@ -253,8 +253,8 @@ a.sidebar-nav-item:focus {
 .theme-silver-tree .sidebar {
   background-color: #68c3a3;
 }
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
+.theme-silver-tree .content a,
+.theme-silver-tree .related-posts li a:hover {
   color: #68c3a3;
 }
 
@@ -262,8 +262,8 @@ a.sidebar-nav-item:focus {
 .theme-tall-poppy .sidebar {
   background-color: #c0392b;
 }
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
+.theme-tall-poppy .content a,
+.theme-tall-poppy .related-posts li a:hover {
   color: #c0392b;
 }
 
@@ -271,7 +271,7 @@ a.sidebar-nav-item:focus {
 .theme-niagra .sidebar {
   background-color: #16a085;
 }
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
+.theme-niagra .content a,
+.theme-niagra .related-posts li a:hover {
   color: #16a085;
 }
