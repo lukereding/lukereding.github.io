@@ -23,5 +23,5 @@ last updated:   03 Sept 2016
 github:
   repo:           https://github.com/lukereding/
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 future: true

@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Roboto", serif;
+  font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
 }
 
@@ -247,31 +247,4 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
-}
-
-/* Silver Tree */
-.theme-silver-tree .sidebar {
-  background-color: #68c3a3;
-}
-.theme-silver-tree .content a,
-.theme-silver-tree .related-posts li a:hover {
-  color: #68c3a3;
-}
-
-/* tall poppy */
-.theme-tall-poppy .sidebar {
-  background-color: #c0392b;
-}
-.theme-tall-poppy .content a,
-.theme-tall-poppy .related-posts li a:hover {
-  color: #c0392b;
-}
-
-/* niagra */
-.theme-niagra .sidebar {
-  background-color: #16a085;
-}
-.theme-niagra .content a,
-.theme-niagra .related-posts li a:hover {
-  color: #16a085;
 }
