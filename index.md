@@ -9,6 +9,8 @@ I'm a graduate student and NSF Research Fellow in the [Ecology, Evolution, and B
 
 __I study how organisms make decisions that are essential to their survival and reproduction.__
 
+You can find my blog on data analysis, mining, and visualization projects [here](https://lukereding.github.io/nonstandard_deviations/).
+
 [CV](../files/cv.pdf)
 :: [blog](https://lukereding.github.io/nonstandard_deviations/)
 :: [github](https://github.com/lukereding)
