@@ -5,7 +5,7 @@ title:
 
 ![logo](../files/photo.jpg)
 
-I'm a graduate student and NSF Research Fellow in the [Ecology, Evolution, and Behavior graduate group](https://www.cns.utexas.edu/eeb-graduate-program) at UT Austin. I work with [Molly Cummings](http://www.bio.utexas.edu/research/cummingslab/).
+I'm a graduate student and [NSF Research Fellow](https://www.nsfgrfp.org) and [TVL Associate](https://www.mccombs.utexas.edu/Centers/Texas-Venture-Labs) in the [Ecology, Evolution, and Behavior graduate group](https://www.cns.utexas.edu/eeb-graduate-program) at UT Austin. I work with [Molly Cummings](http://www.bio.utexas.edu/research/cummingslab/).
 
 __I study how organisms make decisions that are essential to their survival and reproduction.__
 
