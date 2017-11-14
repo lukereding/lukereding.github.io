@@ -3,7 +3,7 @@ layout: page
 title: publications
 ---
 
-__Reding, L__. and M. Cummings. Context-dependent preferences by multicomponent signals in a swordtail. _in press_, [Animal Behaviour](http://www.sciencedirect.com/science/article/pii/S0003347217301549).
+__Reding, L__. and M. Cummings. Context-dependent preferences by multicomponent signals in a swordtail. 2017. [Animal Behaviour](http://www.sciencedirect.com/science/article/pii/S0003347217301549).
 
 __Reding, L__. and M. Cummings. Does sensory expansion benefit asexual species? An olfactory discrimination test in Amazon mollies. 2016. [Behavioral Ecology](http://beheco.oxfordjournals.org/content/early/2015/10/07/beheco.arv168.short?rss=1).
 
