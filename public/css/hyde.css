@@ -190,8 +190,8 @@ a.sidebar-nav-item:focus {
 .theme-dred .sidebar {
   background-color: #c02942;
 }
-.theme-red .content a,
-.theme-red .related-posts li a:hover {
+.theme-dred .content a,
+.theme-dred .related-posts li a:hover {
   color: #c02942;
 }
 
