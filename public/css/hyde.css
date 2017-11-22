@@ -197,11 +197,22 @@ a.sidebar-nav-item:focus {
 
 /* green */
 .theme-green .sidebar {
-  background-color: #38A6A5;
+  background-color: #38a6a5;
 }
 .theme-green .content a,
 .theme-green .related-posts li a:hover {
-  color: #38A6A5;
+  color: #38a6a5;
+}
+
+53777A
+
+/* purple */
+.theme-purple .sidebar {
+  background-color: #53777a;
+}
+.theme-purple .content a,
+.theme-purple .related-posts li a:hover {
+  color: #53777a;
 }
 
 
