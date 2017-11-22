@@ -195,6 +195,14 @@ a.sidebar-nav-item:focus {
   color: #c02942;
 }
 
+/* green */
+.theme-green.sidebar {
+  background-color: #38A6A5;
+}
+.theme-green .content a,
+.theme-green .related-posts li a:hover {
+  color: #38A6A5;
+}
 
 
 /* Red */
