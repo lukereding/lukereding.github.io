@@ -196,7 +196,7 @@ a.sidebar-nav-item:focus {
 }
 
 /* green */
-.theme-green.sidebar {
+.theme-green .sidebar {
   background-color: #38A6A5;
 }
 .theme-green .content a,
