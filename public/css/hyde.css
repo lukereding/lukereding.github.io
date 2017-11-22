@@ -208,11 +208,11 @@ a.sidebar-nav-item:focus {
 
 /* purple */
 .theme-purple .sidebar {
-  background-color: #53777a;
+  background-color: #4e3759;
 }
 .theme-purple .content a,
 .theme-purple .related-posts li a:hover {
-  color: #53777a;
+  color: #4e3759;
 }
 
 
