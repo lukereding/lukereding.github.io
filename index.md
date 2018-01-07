@@ -13,7 +13,8 @@ My interests include statistics, data analysis, data visualization, and programm
 
 You can find my blog on data analysis, mining, and visualization projects [here](https://lukereding.github.io/nonstandard_deviations/).
 
-[CV](../files/cv.pdf)
+[resume](../files/lpr_resume.pdf)
+:: [CV](../files/cv.pdf)
 :: [blog](https://lukereding.github.io/nonstandard_deviations/)
 :: [github](https://github.com/lukereding)
 :: [twitter](https://twitter.com/lpreding)
