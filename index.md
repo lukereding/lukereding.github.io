@@ -5,7 +5,9 @@ title:
 
 ![logo](../files/photo.jpg)
 
-I'm an incoming data scientist at Cerebri AI and biology PhD.
+I'm an incoming data scientist at Cerebri AI and biology PhD. I'm skilled at Python and R, work hard to communicate well, and I'm always trying to improve.
+
+The links to the left have additional information about my background, papers, and philosophies.
 
 [resume](../files/lpr_resume.pdf)
 :: [CV](../files/cv.pdf)
