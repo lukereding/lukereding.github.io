@@ -9,8 +9,7 @@ I'm a data scientist at [Cerebri AI](https://www.cerebriai.com/) and biology PhD
 
 The links to the left have additional information about my background, papers, and philosophies.
 
-[resume](../files/lpr_resume.pdf)
-:: [CV](../files/cv.pdf)
+[CV](../files/cv.pdf)
 :: [blog](https://lukereding.github.io/nonstandard_deviations/)
 :: [github](https://github.com/lukereding)
 :: [twitter](https://twitter.com/lpreding)
