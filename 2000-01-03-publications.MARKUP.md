@@ -3,9 +3,11 @@ layout: page
 title: publications
 ---
 
+Phillips, Z. I., __L. Reding__, C. E. Farrior. How Host Development Influences Symbiont Transmission: A Superorganism Perspective. _In prep_.
+
 Phillips, Z. I., M. Zhang, and __L. Reding__. Social Immune Tolerance as a Special Protection of the Queen. _Submitted_
 
-__Reding, L__. and M. Cummings. Rational choice of social group in mosquitofish. Biology Letters. _In press_.
+__Reding, L__. and M. Cummings. Rational choice of social group in mosquitofish. 2019. [Biology Letters](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0693).
 
 __Reding, L__. and M. E. Cummings. Rational mate choice decisions vary with female age and multidimensional male signals in swordtails. 2018. [Ethology](https://onlinelibrary.wiley.com/doi/abs/10.1111/eth.12769).
 
