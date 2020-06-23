@@ -5,6 +5,8 @@ title:
 
 ![logo](../files/photo.jpg)
 
+![name](../files/test.gif)
+
 I'm a data scientist and biology PhD. I'm skilled at Python and R, work hard to communicate well, and I'm always trying to improve.
 
 The links to the left have additional information about my background, papers, and philosophies.
