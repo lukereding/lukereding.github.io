@@ -3,7 +3,7 @@ layout: page
 title:
 ---
 
-![name](../files/test.gif)
+![logo](../files/photo.jpg)
 
 I'm a data scientist and biology PhD. I'm skilled at Python and R, work hard to communicate well, and I'm always trying to improve.
 
