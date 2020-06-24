@@ -287,9 +287,9 @@ a.sidebar-nav-item:focus {
 }
 
 .theme-ai .sidebar {
-  background-color: #22408D;
+  background-color: #357686;
 }
 .theme-ai .content a, 
 .theme-ai .related-posts li a:hover {
-  color: #4F95A6;
+  color: #357686;
 }
