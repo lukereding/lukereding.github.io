@@ -3,9 +3,9 @@ layout: page
 title: publications
 ---
 
-Phillips, Z. I., __L. Reding__, C. E. Farrior. How Host Development Influences Symbiont Transmission: A Superorganism Perspective. _In prep_.
+Queller, Shirali, Wallace, DeAngelis, Yurt, __Reding__, Cummings. Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, _Xiphophorus nigrensis_. _in prep_
 
-Phillips, Z. I., M. Zhang, and __L. Reding__. Social Immune Tolerance as a Special Protection of the Queen. _Submitted_
+Phillips, Z. I., __L. Reding__, C. E. Farrior. How Host Development Influences Symbiont Transmission: A Superorganism Perspective. _In revision_.
 
 __Reding, L__. and M. Cummings. Rational choice of social group in mosquitofish. 2019. [Biology Letters](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0693).
 
