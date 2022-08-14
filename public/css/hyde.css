@@ -306,10 +306,10 @@ a.sidebar-nav-item:focus {
 }
 
 .theme-ai .sidebar {
-  background-color: #F1F0E2;
+  background-color: #f1f0e2;
 }
 
 .theme-ai .content a,
 .theme-ai .related-posts li a:hover {
-  color: #d8ae48;
+  color: #966900;
 }
