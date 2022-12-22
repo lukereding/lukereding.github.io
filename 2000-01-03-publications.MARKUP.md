@@ -5,7 +5,7 @@ title: publications and research
 
 # publications 
 
-Queller, Shirali, Wallace, DeAngelis, Yurt, __Reding__, Cummings. Complexity of the social rearing environment shapes personality and behavioral syndromes in adult female swordtail fish, _Xiphophorus nigrensis_. _in prep_
+Queller, P., Shirali, Y., Wallace, K. J., DeAngelis, R. S., Yurt, V., **Reding, L. P.**, and Cummings, M.E. Complex sexual-social environments produce high boldness and low aggression behavioral syndromes. 2022. [Frontiers in Ecology and Evolution](https://www.frontiersin.org/articles/10.3389/fevo.2022.1050569/).
 
 Phillips, Z. I., __L. Reding__, C. E. Farrior. The early life of a leaf-cutter ant colony constrains symbiont vertical transmission and favors horizontal transmission. 2021. [Ecology and Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7900)
 
