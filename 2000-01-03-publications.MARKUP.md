@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications and research
+title: publications, patents, research
 ---
 
 # publications 
@@ -20,6 +20,12 @@ __Reding, L__. and M. E. Cummings. Does sensory expansion benefit asexual specie
 __Reding, L__. Increased hatching success as a direct benefit of polyandry in birds. 2015. [Evolution](http://onlinelibrary.wiley.com/doi/10.1111/evo.12553/full).
 
 __Reding, L. P__, J. P. Swaddle, and H. A. Murphy. Sexual selection hinders adaptation in experimental populations of yeast. 2013. [Biology Letters](http://rsbl.royalsocietypublishing.org/content/9/3/20121202.short).
+
+
+# inventions
+
+You can find my patents [here](https://patents.google.com/?inventor=luke+Reding).
+
 
 # graduate school research
 
