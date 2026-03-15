@@ -3,6 +3,9 @@ layout: page
 title: publications, patents, research
 ---
 
+My academic work studied decision-making in biological systems, how organisms choose under uncertainty, and when rational-choice models predict behavior well versus poorly.
+
+
 # publications 
 
 Queller, P., Shirali, Y., Wallace, K. J., DeAngelis, R. S., Yurt, V., **Reding, L. P.**, and Cummings, M.E. Complex sexual-social environments produce high boldness and low aggression behavioral syndromes. 2022. [Frontiers in Ecology and Evolution](https://www.frontiersin.org/articles/10.3389/fevo.2022.1050569/).
